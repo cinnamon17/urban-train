@@ -16,4 +16,8 @@ live_config_reload = true
 
 [font.normal]
 family = "FiraCode Nerd Font"
-style = "Retina"
+style = "Medium"
+
+[font.bold]
+family = "FiraCode Nerd Font"
+style = "Bold"
