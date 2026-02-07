@@ -1,0 +1,19 @@
+[terminal.shell]
+program = "tmux" 
+
+[window]
+decorations = "none"      
+startup_mode = "Windowed" 
+dynamic_title = true
+opacity = 0.9             
+
+[window.padding]
+x = 0
+y = 0
+
+[general]
+live_config_reload = true
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Retina"
